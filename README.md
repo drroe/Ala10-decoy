@@ -2,7 +2,7 @@
 
 Daniel R. Roe
 
-Roe et al. JOURNAL OF PHYSICAL CHEMISTRY B 111 (7): 1846-1857 FEB 22 2007
+[Roe et al. JOURNAL OF PHYSICAL CHEMISTRY B 111 (7): 1846-1857 FEB 22 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810457/)
 
 ## Introduction
 
