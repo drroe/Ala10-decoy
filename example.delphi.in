@@ -1,0 +1,14 @@
+indi=1.0 
+exdi=78.5
+!exdi=1000.0
+perfil=80.0
+scale=4.0 
+autoc=true
+!linit=1000
+bndcon=4
+fcrg=false
+in(siz, file="temp.siz")
+in(crg, file="temp.crg")
+in(pdb, file="Delphi/temp.pdb.1000")
+!out(modpdb,file="modpdb.out")
+energy(g, s, c)
